@@ -1,0 +1,36 @@
+  
+main img{
+    width: 400px;
+    height: 400px;
+ }
+main img{
+    margin-left: 20px;
+  }
+  /* div{
+   padding-left: 150px;
+  } */
+  
+  body{
+    background-color: lightgrey;
+  }
+  p{
+      text-align: center;
+     font-style: italic;
+  }
+  
+  
+  ul{
+    margin-top: 50px;
+  }
+  
+li{
+    margin-top: 10px;
+    list-style-type: none;
+    color:maroon;
+    font-weight: bold;
+}
+
+#results-list
+{
+    display: none;
+}
