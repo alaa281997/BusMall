@@ -27,7 +27,7 @@ thirdImg.textContent = this.name;
 thirdImg.textContent = this.source;
 
 
-let maxAttempts=5;
+let maxAttempts=25;
 let userAttemptsCounter=0;
 let firstImageIndex;
 let secondImageIndex;
